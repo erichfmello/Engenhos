@@ -1,0 +1,16 @@
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\bin\Debug\net5.0\Teste001.exe
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\bin\Debug\net5.0\Teste001.deps.json
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\bin\Debug\net5.0\Teste001.runtimeconfig.json
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\bin\Debug\net5.0\Teste001.runtimeconfig.dev.json
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\bin\Debug\net5.0\Teste001.dll
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\bin\Debug\net5.0\ref\Teste001.dll
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\bin\Debug\net5.0\Teste001.pdb
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\Teste001.csproj.AssemblyReference.cache
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\Teste001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\Teste001.AssemblyInfoInputs.cache
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\Teste001.AssemblyInfo.cs
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\Teste001.csproj.CoreCompileInputs.cache
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\Teste001.dll
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\ref\Teste001.dll
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\Teste001.pdb
+C:\Pantru\git\Testes\Engex\Exercicio001\Teste001\Teste001\obj\Debug\net5.0\Teste001.genruntimeconfig.cache
